@@ -16,6 +16,10 @@
 	margin: 0;
 }
 
+.reveal ul {
+	display: block;
+}
+
 body{
 	font-family: "Open Sans";
 	min-height: 740px;
