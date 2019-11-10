@@ -146,15 +146,11 @@ em{
 }
 
 .lv0_indent{
-	margin-left: 30px;
+	margin-left: 30px !important;
 }
 
 .lv1_indent{
 	margin-left: 60px !important;
-}
-
-.lv2_indent{
-	margin-left: 120px;
 }
 
 /* EOF Defaults */
