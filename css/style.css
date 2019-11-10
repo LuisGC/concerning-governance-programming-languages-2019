@@ -26,6 +26,10 @@ body{
 	color: #EEE;
 }
 
+.reveal small {
+	vertical-align : middle;
+}
+
 /* Defaults */
 
 .title{
