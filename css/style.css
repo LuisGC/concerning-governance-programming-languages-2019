@@ -150,7 +150,7 @@ em{
 }
 
 .lv1_indent{
-	margin-left: 60px;
+	margin-left: 60px !important;
 }
 
 .lv2_indent{
@@ -232,7 +232,6 @@ em{
 .small_rounded_icon {
 	height:28px;
 	vertical-align: middle;
-	padding: 15px 0px;
 }
 
 a{
