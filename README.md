@@ -1,21 +1,21 @@
-Concerning Governance in Programming Languages
+Concerning Governance in Programming Languages, 2019 edition
 ====
 
 Presentation (in English) about **Concerning Governance in Programming Languages** by [Luis García Castro](https://github.com/LuisGC)
 
-View in GitHub-Pages: [Concerning Governance in Programming Languages] (https://luisgc.github.com/programming_languages_governance)
+View in GitHub-Pages: [Concerning Governance in Programming Languages] (https://luisgc.github.com/concerning-governance-programming-languages-2019)
 
 # Content
 
 + Important aspects of governance
- + Governance systems
- + Software licenses
- + Community value: size, relevance, diversity, ...
- + Language Health: presence, activity and evolution
+  - Language Health: presence, activity and evolution
+  - Governance systems
+  - Software licenses
+  - Community value: size, relevance, diversity, ...
 + Analysis of some languages
- + Java, C, C#, Python, PHP, JavaScript, Ruby, Perl, Groovy, Go, Rust and Clojure
+ + Java, C, C#, Python, PHP, JavaScript, Ruby, Perl, Groovy, Go, Rust, Clojure, Scala & Kotlin
 + Comparing them together...
- + by public projects, by jobs posted, by SO activity, by corporate interest, ...
+ + by public projects, by jobs posted, by SO activity, ...
 + My own Magic Quadrant
 
 # Resources
@@ -23,10 +23,6 @@ View in GitHub-Pages: [Concerning Governance in Programming Languages] (https://
 * [impress.js](https://github.com/bartaz/impress.js) - An open source presentation framework based on the power of HTML5 and CSS3 transforms and transitions
 * [impress-console](https://github.com/regebro/impress-console) - module that provides a speaker console for impress.js presentations
 * [Graph / Tree Slide Generator](http://4quantOSS.github.io/shiny-impress.js) - Uses the igraph library in R to generate optimally positioned graphs from given connectivities and generates a presentation from these results. A live version is available [here](https://4quant.shinyapps.io/gimpress/)
-
-# License
-
-[GNU GENERAL PUBLIC LICENSE, Version 3] (http://www.gnu.org/licenses/gpl-3.0.html)
 
 # Bibliography
 
@@ -39,9 +35,12 @@ View in GitHub-Pages: [Concerning Governance in Programming Languages] (https://
 * [golang.org] (https://golang.org/)
 * [rust-lang.org] (http://www.rust-lang.org/)
 * [clojure.org] (http://clojure.org/)
+* [scala-lang.org] (https://www.scala-lang.org/)
+* [kotlinlang.org] (https://kotlinlang.org/)
 * [Free Software Foundation Europe] (https://fsfe.org/)
 * [gnu.org software licenses and resources] (http://www.gnu.org/licenses/licenses.en.html)
 * [choosealicense.com by Github, Inc] (http://choosealicense.com/)
-* [Apache Incubator] (http://incubator.apache.org/)
-* [Gartner Programming Language Index for 2014] (http://blogs.gartner.com/mark_driver/2014/10/02/gartner-programming-language-index-for-2014/)
-* [The Mysterious PHP RFC Process] (https://blogs.oracle.com/opal/entry/the_mysterious_php_rfc_process)
+
+# License
+
+[GNU GENERAL PUBLIC LICENSE, Version 3] (http://www.gnu.org/licenses/gpl-3.0.html)
