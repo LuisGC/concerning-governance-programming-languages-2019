@@ -12,10 +12,10 @@ View in GitHub-Pages: [Concerning Governance in Programming Languages] (https://
   - Governance systems
   - Software licenses
   - Community value: size, relevance, diversity, ...
-+ Analysis of some languages
++ Comparing some of the main languages together
+  - by public projects, by jobs posted, by SO activity, ...
++ Critical Analysis of those languages
  + Java, C, C#, Python, PHP, JavaScript, Ruby, Perl, Groovy, Go, Rust, Clojure, Scala & Kotlin
-+ Comparing them together...
- + by public projects, by jobs posted, by SO activity, ...
 + My own Magic Quadrant
 
 # Resources
